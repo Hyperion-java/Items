@@ -1,0 +1,8 @@
+name: "&aCaver Chisel"
+material: STONE_PICKAXE
+rarity: UNCOMMON
+lore:
+  - ""
+
+stats:
+  prosperity: 3
