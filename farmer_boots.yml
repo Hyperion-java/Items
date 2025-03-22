@@ -1,0 +1,9 @@
+name: "&fFarmer Helmet"
+material: LEATHER_BOOTS
+rarity: COMMON
+lore:
+  - ""
+
+stats:
+  strength: 2
+  defense: 5

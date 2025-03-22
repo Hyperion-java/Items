@@ -1,0 +1,9 @@
+name: "&fFarmer Chestplate"
+material: LEATHER_CHESTPLATE
+rarity: COMMON
+lore:
+  - ""
+
+stats:
+  strength: 2
+  defense: 5
