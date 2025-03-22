@@ -1,0 +1,20 @@
+name: "&6Sword of Power"  # The name of the item
+material: "DIAMOND_SWORD"  # The material type of the item (must be a valid Bukkit material)
+rarity: "LEGENDARY"  # The rarity of the item (e.g., ASCENDED, MYTHIC, LEGENDARY, etc.)
+lore:
+  - "§7A sword forged from the sun itself."
+  - "§7It radiates immense power."
+  - "§7Only wielded by the worthy."
+stats:
+  damage: 50 
+  strength: 0
+  defense: 0
+  precision: 0
+  truedamage: 0
+  truedefense: 0
+  ferocity: 15
+  swingrange: 0
+  speed: 0
+  prosperity: 0
+  amulet-damage: 0
+  amulet-defense: 0
