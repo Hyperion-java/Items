@@ -1,0 +1,17 @@
+name: "Eclipseborn Blade"
+material: NETHERITE_SWORD
+rarity: ASCENDED
+lore:
+  - "Forged in the dying light of a forgotten sun,"
+  - "this blade carries the void between worlds."
+  - "&7&8&9"
+  - "With each strike, darkness follows, swallowing all in its path."
+
+stats:
+  damage: 999999
+  strength: 999999
+  truedamage: 999999
+  ferocity: 999999
+  swingrange: 999999
+  speed: 500
+  prosperity: 9999999

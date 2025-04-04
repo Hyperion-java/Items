@@ -1,0 +1,10 @@
+name: "Dented Chestplate "
+material: IRON_CHESTPLATE
+rarity: COMMON
+lore:
+  - "Each dent tells a story—a battle survived, a blow endured."
+
+stats:
+  strength: 1
+  defense: 6
+  speed: 1

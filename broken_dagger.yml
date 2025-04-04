@@ -1,0 +1,10 @@
+name: "Broken dagger"
+material: STONE_SWORD
+rarity: COMMON
+lore:
+  - "A worn down dagger..."
+
+stats:
+  damage: 8
+  strength: 2
+  speed: 2

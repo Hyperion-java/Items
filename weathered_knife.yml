@@ -1,0 +1,11 @@
+name: "Weathered Knife"
+material: STONE_SWORD
+rarity: UNCOMMON
+lore:
+  - "A once-reliable tool, now brittle"
+  - "and frail. Each scar on its surface"
+  - "tells a story of battles long past."
+
+stats:
+  damage: 10
+  strength: 5

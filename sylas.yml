@@ -1,0 +1,11 @@
+name: "Sylas"
+material: STONE_SWORD
+rarity: UNCOMMON
+lore:
+  - "A fallen wanderer, his past lost"
+  - "to whispers and shadows."
+
+stats:
+  damage: 10
+  strength: 2
+  speed: 1

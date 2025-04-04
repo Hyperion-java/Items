@@ -1,0 +1,11 @@
+name: "Starless Fang"
+material: IRON_SWORD
+rarity: UNCOMMON
+lore:
+  - "A blade that knows no light,"
+  - "in the void between stars."
+
+stats:
+  damage: 10
+  strength: 5
+  speed: 5

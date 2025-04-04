@@ -1,11 +1,11 @@
-name: "&aCaver Torso"
+name: "Caver Torso"
 material: GOLDEN_CHESTPLATE
 rarity: UNCOMMON
 lore:
   - "&6Full Set Bonus: &aFast Miner"
-  - "&7When wearing the full set of"
-  - "&7armor, The wearer get's the"
-  - "&7effect &6Haste I&7 underground."
+  - "&fWhen wearing the full set of"
+  - "&farmor, The wearer get's the"
+  - "&feffect &6Haste I&f underground."
 
 stats:
   strength: 5

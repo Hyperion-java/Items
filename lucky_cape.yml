@@ -1,0 +1,10 @@
+name: "Lucky Cape"
+material: GOLDEN_CHESTPLATE
+rarity: RARE
+lore:
+  - "&7Some say a essence of &aFortuna"
+  - "&7was trapped in this cloak."
+
+stats:
+  defense: 3
+  prosperity: 10
