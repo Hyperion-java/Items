@@ -1,8 +1,6 @@
 name: "Farmer Chestplate"
 material: LEATHER_CHESTPLATE
 rarity: COMMON
-lore:
-  - ""
 
 stats:
   defense: 5

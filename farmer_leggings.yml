@@ -1,8 +1,6 @@
-name: "Farmer Helmet"
+name: "Farmer Legggings"
 material: LEATHER_LEGGINGS
 rarity: COMMON
-lore:
-  - ""
 
 stats:
   defense: 5

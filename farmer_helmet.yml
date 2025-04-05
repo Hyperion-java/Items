@@ -1,8 +1,6 @@
 name: "Farmer Helmet"
 material: LEATHER_HELMET
 rarity: COMMON
-lore:
-  - ""
 
 stats:
   defense: 5

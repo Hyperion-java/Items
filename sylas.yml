@@ -1,9 +1,9 @@
-name: "Sylas"
+name: "&aSylas"
 material: STONE_SWORD
 rarity: UNCOMMON
 lore:
-  - "A fallen wanderer, his past lost"
-  - "to whispers and shadows."
+  - "&fA fallen wanderer, his past lost"
+  - "&fto whispers and shadows."
 
 stats:
   damage: 10

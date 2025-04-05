@@ -2,7 +2,8 @@ name: "Dented Boots"
 material: IRON_BOOTS
 rarity: COMMON
 lore:
-  - "Each dent tells a story—a battle survived, a blow endured."
+  - "&fEach dent tells a story—a battle"
+  - "&fsurvived, a blow endured."
 
 stats:
   strength: 1

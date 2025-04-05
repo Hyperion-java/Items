@@ -2,8 +2,8 @@ name: "Rusty Sword"
 material: WOODEN_SWORD
 rarity: COMMON
 lore:
-  - "A blade long forgotten, its edge"
-  - "dulled by time and rust."
+  - "&fA blade long forgotten, its edge"
+  - "&fdulled by time and rust."
 
 stats:
   damage: 6

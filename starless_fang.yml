@@ -1,9 +1,9 @@
-name: "Starless Fang"
+name: "&aStarless Fang"
 material: IRON_SWORD
 rarity: UNCOMMON
 lore:
-  - "A blade that knows no light,"
-  - "in the void between stars."
+  - "&fA blade that knows no light,"
+  - "&fin the void between stars."
 
 stats:
   damage: 10
