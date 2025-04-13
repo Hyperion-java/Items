@@ -1,5 +1,6 @@
 name: "Dented Chestplate "
 material: IRON_CHESTPLATE
+type: "&aStarter Armour"
 rarity: COMMON
 lore:
   - "&fEach dent tells a story—a battle"

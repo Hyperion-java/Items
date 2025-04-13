@@ -1,6 +1,7 @@
 name: "&aCaver Shoes"
 material: GOLDEN_BOOTS
 rarity: UNCOMMON
+type: "&aStarter Armour"
 lore:
   - "&6Full Set Bonus: &aFast Miner"
   - "&fWhen wearing the full set of"

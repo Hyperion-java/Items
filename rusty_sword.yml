@@ -1,5 +1,6 @@
 name: "Rusty Sword"
 material: WOODEN_SWORD
+type: "&aStarter Weapon"
 rarity: COMMON
 lore:
   - "&fA blade long forgotten, its edge"

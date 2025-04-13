@@ -1,6 +1,7 @@
 name: "Farmer Chestplate"
 material: LEATHER_CHESTPLATE
 rarity: COMMON
+type: "&aStarter Armour"
 
 stats:
   defense: 5
