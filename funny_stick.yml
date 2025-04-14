@@ -1,0 +1,13 @@
+name: "&cFunny Stick"
+material: STICK
+rarity: ASCENDED
+ability: "laser"
+tier: 1
+type: "&4funny sticky"
+lore:
+  - "&6this stick is not op"
+
+stats:
+  strength: 999999
+  truedamage: 999999
+  ferocity: 999999
