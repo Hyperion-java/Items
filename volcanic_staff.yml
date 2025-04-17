@@ -1,6 +1,6 @@
 name: "&6Volcanic Staff"
 material: GOLDEN_SHOVEL
-ability: "projectile_barrage"
+ability: "fireball"
 tier: 1
 type: "&6Experienced Staff"
 rarity: LEGENDARY
