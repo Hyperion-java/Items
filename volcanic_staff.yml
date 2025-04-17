@@ -5,8 +5,8 @@ tier: 1
 type: "&6Experienced Staff"
 rarity: LEGENDARY
 lore:
-  - "A Staff formed by the anger from the"
-  - "fight during Zeus and Hephaestus."
+  - "&fA Staff formed by the anger from the"
+  - "&ffight during &6Zeus &fand &4Hephaestus."
 
 stats:
   speed: 20
