@@ -1,6 +1,8 @@
 name: "&aWeathered Knife"
 material: STONE_SWORD
 type: "&aStarter Blade"
+ability: "boost"
+tier: 2
 rarity: UNCOMMON
 lore:
   - "&fA once-reliable tool, now brittle"
