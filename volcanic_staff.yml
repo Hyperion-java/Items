@@ -1,0 +1,13 @@
+name: "&6Volcanic Staff"
+material: GOLDEN_SHOVEL
+ability: "projectile_barrage"
+tier: 1
+type: "&6Experienced Staff"
+rarity: LEGENDARY
+lore:
+  - "A Staff formed by the anger from the"
+  - "fight during Zeus and Hephaestus."
+
+stats:
+  speed: 20
+  prosperity: 10
