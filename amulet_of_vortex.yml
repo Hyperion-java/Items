@@ -1,0 +1,13 @@
+name: "&6Amulet of the Vortex"
+material: IRON_NUGGET
+ability: "vortex"
+tier: 1
+type: "&6Experienced Amulet"
+rarity: LEGENDARY
+lore:
+  - "&fAn amulet imbued with the power"
+  - "&fof the &6wind&f."
+
+stats:
+  amuletdamage: 10
+  amuletdefense: 5
