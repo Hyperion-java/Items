@@ -1,0 +1,12 @@
+name: "&aKnight's Lance"
+material: IRON_SWORD
+type: "&aStarter Lance"
+rarity: UNCOMMON
+lore:
+  - "&fIdeal for tank and support roles,"
+  - "&fCreated to defend and fight when"
+  - "&fnecessary."
+
+stats:
+  damage: 5
+  strength: 8
