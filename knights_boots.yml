@@ -1,0 +1,12 @@
+name: "&aKnight's Boots"
+material: IRON_BOOTS
+type: "&aStarter Armour"
+rarity: UNCOMMON
+lore:
+  - "&fIdeal for tank and support roles,"
+  - "&fCreated to defend and fight when"
+  - "&fnecessary."
+
+stats:
+  strength: 5
+  defense: 5
