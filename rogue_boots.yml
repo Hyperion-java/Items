@@ -1,0 +1,11 @@
+name: "&aRogue's Shoes"
+material: LEATHER_BOOTS
+type: "&aStarter Armour"
+rarity: UNCOMMON
+lore:
+  - "&fBenefits and Drawbacks is the"
+  - "&fonly definition of this set!"
+
+stats:
+  strength: 5
+  defense: 2
