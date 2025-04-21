@@ -1,0 +1,11 @@
+name: "&aRogue's Pants"
+material: LEATHER_LEGGINGS
+type: "&aStarter Armour"
+rarity: UNCOMMON
+lore:
+  - "&fBenefits and Drawbacks is the"
+  - "&fonly definition of this set!"
+
+stats:
+  strength: 5
+  defense: 2
