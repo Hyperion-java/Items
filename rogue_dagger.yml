@@ -1,0 +1,12 @@
+name: "&aRogue's Dagger"
+material: STONE_SWORD
+type: "&aStarter Dagger"
+rarity: UNCOMMON
+lore:
+  - "&fBenefits and Drawbacks is the"
+  - "&fonly definition of this set!"
+
+stats:
+  strength: 5
+  damage: 8
+  speed: 5
