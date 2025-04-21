@@ -1,0 +1,11 @@
+name: "&aRogue's Tunic"
+material: LEATHER_CHESTPLATE
+type: "&aStarter Armour"
+rarity: UNCOMMON
+lore:
+  - "&fBenefits and Drawbacks is the"
+  - "&fonly definition of this set!"
+
+stats:
+  strength: 5
+  defense: 2
