@@ -1,0 +1,12 @@
+name: "&aIron Claymore"
+material: IRON_SWORD
+type: "&aStarter Blade"
+rarity: UNCOMMON
+lore:
+  - "&7A large, two-handed sword."
+  - "&7Deals powerful strikes but"
+  - "&7slower to swing."
+
+stats:
+  damage: 12
+  strength: 6
