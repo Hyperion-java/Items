@@ -1,0 +1,10 @@
+name: "&9Arcsteel Saber"
+material: IRON_SWORD
+type: "&9Intermediate Blade"
+rarity: RARE
+lore:
+  - "&7Infused with stable arcane steel."
+
+stats:
+  damage: 10
+  strength: 5
