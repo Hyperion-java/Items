@@ -1,0 +1,11 @@
+name: "&aVenomspike Dagger"
+material: GOLDEN_SWORD
+type: "&aStarter Blade"
+rarity: UNCOMMON
+lore:
+  - "&7Drips with deadly venom,"
+  - "&7Designed for silent eliminations."
+
+stats:
+  damage: 4
+  strength: 2
