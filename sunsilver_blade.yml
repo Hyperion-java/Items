@@ -1,0 +1,10 @@
+name: "&9Sunsilver Blade"
+material: IRON_SWORD
+type: "&9Intermediate Blade"
+rarity: RARE
+lore:
+  - "&7Forged in sunlight, gleams with purity."
+
+stats:
+  damage: 10
+  strength: 6
