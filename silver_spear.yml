@@ -1,0 +1,14 @@
+name: "&aSilver Spear"
+material: IRON_SWORD
+type: "&aStarter Spear"
+rarity: UNCOMMON
+ability: "boost"
+tier: 1
+lore:
+  - "&fA versatile weapon for both melee "
+  - "&fand ranged combat. Effective at"
+  - "&fpiercing through armor.
+
+stats:
+  damage: 7
+  strength: 5
