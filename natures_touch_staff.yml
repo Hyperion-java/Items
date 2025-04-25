@@ -1,0 +1,9 @@
+name: "&aNature's Touch Staff"
+material: BLAZE_ROD
+type: "&aStarter Staff"
+rarity: UNCOMMON
+ability: "recovery"
+tier: 1
+lore:
+  - "&7A staff with a calming aura."
+  - "&7Used by druids to heal allies."
