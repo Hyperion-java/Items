@@ -1,0 +1,11 @@
+name: "&aGilded Dagger"
+material: GOLDEN_SWORD
+type: "&aStarter Blade"
+rarity: UNCOMMON
+lore:
+  - "&7A dagger with an elegant gilded hilt."
+  - "&7Designed for swift, precise attacks."
+
+stats:
+  damage: 5
+  strength: 3
