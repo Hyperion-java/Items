@@ -1,0 +1,11 @@
+name: "&9Frostbite Axe"
+material: IRON_AXE
+type: "&9Intermediate Axe"
+rarity: RARE
+lore:
+  - "&7Each swing destroying the resolve"
+  - "&7of your enemy."
+
+stats:
+  damage: 7
+  strength: 4
