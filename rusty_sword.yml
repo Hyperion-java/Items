@@ -3,8 +3,8 @@ material: WOODEN_SWORD
 type: "&aStarter Blade"
 rarity: COMMON
 lore:
-  - "&fA blade long forgotten, its edge"
-  - "&fdulled by time and rust."
+  - "&7A blade long forgotten, its edge"
+  - "&7dulled by time and rust."
 
 stats:
   damage: 6
