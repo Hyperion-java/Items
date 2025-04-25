@@ -4,9 +4,9 @@ type: "&aStarter Armour"
 rarity: UNCOMMON
 lore:
   - "&6Full Set Bonus: &aFast Miner"
-  - "&fWhen wearing the full set of"
-  - "&farmor, The wearer get's the"
-  - "&feffect &6Haste I&f underground."
+  - "&7When wearing the full set of"
+  - "&7armor, The wearer get's the"
+  - "&7effect &6Haste I&7 underground."
 
 stats:
   strength: 5
