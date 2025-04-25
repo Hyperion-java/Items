@@ -1,0 +1,11 @@
+name: "&fSilver Longsword"
+material: IRON_SWORD
+type: "&aStarter Sword"
+rarity: UNCOMMON
+lore:
+  - "&7A finely crafted sword."
+  - "&7Ideal for knights and mercenaries."
+
+stats:
+  damage: 7
+  strength: 4
