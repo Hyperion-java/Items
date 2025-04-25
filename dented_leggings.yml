@@ -3,8 +3,8 @@ material: IRON_LEGGINGS
 type: "&aStarter Armour"
 rarity: COMMON
 lore:
-  - "&fEach dent tells a story—a battle"
-  - "&fsurvived, a blow endured."
+  - "&7Each dent tells a story—a battle"
+  - "&7survived, a blow endured."
 
 stats:
   strength: 1
