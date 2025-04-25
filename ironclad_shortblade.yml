@@ -1,0 +1,11 @@
+name: "&7Ironclad Shortblade"
+material: IRON_SWORD
+type: "&aStarter Blade"
+rarity: COMMON
+lore:
+  - "&7A simple but sturdy blade."
+  - "&7Reliable for all-around combat."
+
+stats:
+  damage: 6
+  strength: 3
