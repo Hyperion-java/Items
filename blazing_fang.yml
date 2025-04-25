@@ -1,0 +1,12 @@
+name: "&cBlazing Fang"
+material: DIAMOND_SWORD
+type: "&9Intermediate Blade"
+rarity: RARE
+lore:
+  - "&7Forged in dragonfire,"
+  - "&7It thirsts for battle and heat."
+  - "&7Favored by swift and ruthless warriors."
+
+stats:
+  damage: 9
+  strength: 6
