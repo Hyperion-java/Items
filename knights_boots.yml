@@ -3,9 +3,9 @@ material: IRON_BOOTS
 type: "&aStarter Armour"
 rarity: UNCOMMON
 lore:
-  - "&fIdeal for tank and support roles,"
-  - "&fCreated to defend and fight when"
-  - "&fnecessary."
+  - "&7Ideal for tank and support roles,"
+  - "&7Created to defend and fight when"
+  - "&7necessary."
 
 stats:
   strength: 5
