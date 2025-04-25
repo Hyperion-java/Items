@@ -3,9 +3,9 @@ material: STONE_SWORD
 type: "&aStarter Blade"
 rarity: UNCOMMON
 lore:
-  - "&fA once-reliable tool, now brittle"
-  - "&fand frail. Each scar on its surface"
-  - "&ftells a story of battles long past."
+  - "&7A once-reliable tool, now brittle"
+  - "&7and frail. Each scar on its surface"
+  - "&7tells a story of battles long past."
 
 stats:
   damage: 10
