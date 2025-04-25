@@ -5,8 +5,8 @@ tier: 1
 type: "&6Experienced Amulet"
 rarity: LEGENDARY
 lore:
-  - "&fAn amulet imbued with the power"
-  - "&fof the &6wind&f."
+  - "&7An amulet imbued with the power"
+  - "&7of the &6wind&7."
 
 stats:
   amuletdamage: 10
