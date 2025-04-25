@@ -1,0 +1,11 @@
+name: "&7Hardened Mace"
+material: STONE_SWORD
+type: "&aStarter Mace"
+rarity: COMMON
+lore:
+  - "&7A simple mace with a heavy head."
+  - "&7Good for crushing weak enemies."
+
+stats:
+  damage: 6
+  strength: 3
