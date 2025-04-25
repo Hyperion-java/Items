@@ -3,8 +3,8 @@ material: IRON_SWORD
 rarity: UNCOMMON
 type: "&aStarter Blade"
 lore:
-  - "&fA blade that knows no light,"
-  - "&fin the void between stars."
+  - "&7A blade that knows no light,"
+  - "&7in the void between stars."
 
 stats:
   damage: 10
