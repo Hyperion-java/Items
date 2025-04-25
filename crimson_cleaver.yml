@@ -1,0 +1,10 @@
+name: "&9Crimson Cleaver"
+material: IRON_AXE
+type: "&9Intermediate Axe"
+rarity: RARE
+lore:
+  - "&7Wounds deeper than they seem."
+
+stats:
+  damage: 11
+  strength: 5
