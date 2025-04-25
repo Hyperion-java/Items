@@ -1,0 +1,11 @@
+name: "&aSteel Gladius"
+material: IRON_SWORD
+type: "&aStarter Blade"
+rarity: UNCOMMON
+lore:
+  - "&7A well-crafted gladius made of steel."
+  - "&7Perfect for quick strikes in combat."
+
+stats:
+  damage: 8
+  strength: 4
