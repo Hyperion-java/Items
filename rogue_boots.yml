@@ -3,8 +3,8 @@ material: LEATHER_BOOTS
 type: "&aStarter Armour"
 rarity: UNCOMMON
 lore:
-  - "&fBenefits and Drawbacks is the"
-  - "&fonly definition of this set!"
+  - "&7Benefits and Drawbacks is the"
+  - "&7only definition of this set!"
 
 stats:
   strength: 5
