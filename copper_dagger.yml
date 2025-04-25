@@ -1,0 +1,11 @@
+name: "&fCopper Dagger"
+material: GOLDEN_SWORD
+type: "&aStarter Blade"
+rarity: COMMON
+lore:
+  - "&7A small, easy-to-hide dagger."
+  - "&7Effective for quick attacks."
+
+stats:
+  damage: 3
+  strength: 1
