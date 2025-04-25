@@ -3,12 +3,12 @@ material: NETHERITE_SWORD
 rarity: ASCENDED
 type: "&4Admin Blade"
 lore:
-  - "&fForged in the dying light of a"
-  - "&fforgotten sun, this blade carries"
-  - "&fthe void between worlds."
+  - "&7Forged in the dying light of a"
+  - "&7forgotten sun, this blade carries"
+  - "&7the void between worlds."
   - "&7&8&9"
-  - "&fWith each strike, darkness follows,"
-  - "&fswallowing all in its path."
+  - "&7With each strike, darkness follows,"
+  - "&7swallowing all in its path."
 
 stats:
   damage: 999999
