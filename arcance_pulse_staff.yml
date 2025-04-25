@@ -1,0 +1,10 @@
+name: "&5Arcane Pulse Staff"
+material: BLAZE_ROD
+type: "&6Experienced Staff"
+rarity: EPIC
+ability: "projectile_barrage"
+tier: 1
+lore:
+  - "&7A conduit of raw &5arcane&7 energy."
+  - "&7Unstable, yet immensely powerful."
+
