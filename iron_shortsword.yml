@@ -1,0 +1,11 @@
+name: "&fIron Shortsword"
+material: IRON_SWORD
+type: "&aStarter Blade"
+rarity: COMMON
+lore:
+  - "&7A short, reliable sword."
+  - "&7Good for fast strikes in close combat."
+
+stats:
+  damage: 6
+  strength: 3
