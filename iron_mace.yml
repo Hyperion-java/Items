@@ -1,0 +1,11 @@
+name: "&fIron Mace"
+material: IRON_SWORD
+type: "&aStarter Mace"
+rarity: COMMON
+lore:
+  - "&7A heavy weapon used for smashing."
+  - "&7Slows your attack speed, but hits hard."
+
+stats:
+  damage: 7
+  strength: 4
