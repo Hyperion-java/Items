@@ -5,9 +5,9 @@ rarity: RARE
 ability: "recovery"
 tier: 2
 lore:
-  - "&fOvergrown with living roots."
-  - "&fStrikes have a chance to slow foes."
-  - "&fFavored by druids defending sacred groves."
+  - "&7Overgrown with living roots."
+  - "&7Strikes have a chance to slow foes."
+  - "&7Favored by druids defending sacred groves."
 
 stats:
   damage: 16
