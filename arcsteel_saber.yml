@@ -6,5 +6,5 @@ lore:
   - "&7Infused with stable arcane steel."
 
 stats:
-  damage: 80
-  strength: 25
+  damage: 20
+  strength: 10
