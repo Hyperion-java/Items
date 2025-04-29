@@ -3,9 +3,9 @@ material: IRON_SWORD
 type: "&9Intermediate Spear"
 rarity: RARE
 lore:
-  - "&fA weapon once used by spiritwalkers."
-  - "&fIt pierces through both armor and aura."
-  - "&fEach strike reverberates with spiritual energy."
+  - "&7A weapon once used by spiritwalkers."
+  - "&7It pierces through both armor and aura."
+  - "&7Each strike reverberates with spiritual energy."
 
 stats:
   damage: 17
