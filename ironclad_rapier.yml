@@ -1,4 +1,4 @@
-name: "&fIronclad Shortblade"
+name: "&fIronclad Rapier"
 material: IRON_SWORD
 type: "&aStarter Blade"
 rarity: COMMON
@@ -7,5 +7,5 @@ lore:
   - "&7Reliable for all-around combat."
 
 stats:
-  damage: 6
-  strength: 3
+  damage: 10
+  strength: 4
