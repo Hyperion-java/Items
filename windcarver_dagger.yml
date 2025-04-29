@@ -1,0 +1,10 @@
+name: "&aWindcarver Dagger"
+material: GOLDEN_SWORD
+type: "&9Intermediate Dagger"
+rarity: RARE
+lore:
+  - "&fMoves like a whisper, strikes like a storm."
+
+stats:
+  damage: 18
+  strength: 7
