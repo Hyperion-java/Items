@@ -3,8 +3,8 @@ material: IRON_AXE
 type: "&9Intermediate Cleaver"
 rarity: RARE
 lore:
-  - "&fForged from dense ore in the &9Deep Halls&7."
-  - "&fIts weight alone can crush shields."
+  - "&7Forged from dense ore in the &9Deep Halls&7."
+  - "&7Its weight alone can crush shields."
   - "&6Dwarven kings&7 carried these into battle."
 
 stats:
