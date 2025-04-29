@@ -1,5 +1,5 @@
-# Common: 1 - 30 Damage, 0 Strength
-# Uncommon: 30 - 100 Damage, 40 Strength
-# Rare: 100 - 200 Damage, 80 Strength
-# Epic: 200 - 280 Damage, 150 Strength
-# Legendary: 280 - 500, 200 Strength
+# Common: 1 - 20 Damage
+# Uncommon: 10 - 25 Damage
+# Rare: 15 - 35 Damage
+# Epic: 50 - 120 Damage
+# Legendary: 120 - 250 Damage
