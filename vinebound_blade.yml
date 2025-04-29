@@ -1,0 +1,14 @@
+name: "&9Vinebound Blade"
+material: IRON_SWORD
+type: "&9Intermediate Blade"
+rarity: RARE
+ability: "recovery"
+tier: 2
+lore:
+  - "&fOvergrown with living roots."
+  - "&fStrikes have a chance to slow foes."
+  - "&fFavored by druids defending sacred groves."
+
+stats:
+  damage: 16
+  strength: 6
