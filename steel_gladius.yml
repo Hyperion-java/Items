@@ -7,5 +7,5 @@ lore:
   - "&7Perfect for quick strikes in combat."
 
 stats:
-  damage: 8
-  strength: 4
+  damage: 12
+  strength: 5
