@@ -1,0 +1,12 @@
+name: "&bSkyfang"
+material: DIAMOND_SWORD
+type: "&bAzure Fang"
+rarity: EPIC
+lore:
+  - "&7Forges sing when the wind shifts."
+  - "&7This &6blade&7 gleams with &9sapphire&7 sharpness."
+  - "&7Strikes critical from above."
+
+stats:
+  damage: 65
+  strength: 25
