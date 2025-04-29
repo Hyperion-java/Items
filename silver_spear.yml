@@ -7,7 +7,7 @@ tier: 1
 lore:
   - "&fA versatile weapon for both melee "
   - "&fand ranged combat. Effective at"
-  - "&fpiercing through armor.
+  - "&fpiercing through armor."
 
 stats:
   damage: 7
