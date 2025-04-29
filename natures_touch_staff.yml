@@ -7,3 +7,5 @@ tier: 1
 lore:
   - "&7A staff with a calming aura."
   - "&7Used by druids to heal allies."
+stats:
+  prosperity: 3
