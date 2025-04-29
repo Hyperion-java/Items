@@ -3,9 +3,9 @@ material: GOLDEN_SWORD
 type: "&9Intermediate Dagger"
 rarity: RARE
 lore:
-  - "&fCrafted from silverleaf and skyshard crystal."
-  - "&fStrikes as fast as a summer breeze."
-  - "&fAssassins of the Eastern Isles covet it."
+  - "&7Crafted from silverleaf and skyshard crystal."
+  - "&7Strikes as fast as a summer breeze."
+  - "&7Assassins of the Eastern Isles covet it."
 
 stats:
   damage: 18
