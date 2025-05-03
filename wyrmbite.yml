@@ -1,0 +1,13 @@
+name: "&5Wyrmbite"
+material: DIAMOND_SWORD
+type: "&6Experienced Blade"
+rarity: EPIC
+lore:
+  - "&7Crafted from a slain fire &awyrm’s fang&7."
+  - "&7Bites deep, ignites wounds."
+  - "&7Its &6hilt&7 burns the hands of the unworthy."
+
+stats:
+  damage: 55
+  strength: 18
+  prosperity: 10
