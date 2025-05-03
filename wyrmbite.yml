@@ -2,6 +2,8 @@ name: "&5Wyrmbite"
 material: DIAMOND_SWORD
 type: "&6Experienced Blade"
 rarity: EPIC
+ability: "execute"
+tier: 1
 lore:
   - "&7Crafted from a slain fire &awyrm’s fang&7."
   - "&7Bites deep, ignites wounds."
