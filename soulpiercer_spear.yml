@@ -2,6 +2,8 @@ name: "&9Soulpiercer Spear"
 material: IRON_SWORD
 type: "&9Intermediate Spear"
 rarity: RARE
+ability: "boost"
+tier: 2
 lore:
   - "&7A weapon once used by spiritwalkers."
   - "&7It pierces through both armor and aura."
