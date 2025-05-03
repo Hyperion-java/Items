@@ -1,6 +1,8 @@
 name: "&5Specter Scythe"
 material: IRON_HOE
 type: "&6Experienced Scythe"
+ability: "summon"
+tier: 1
 rarity: EPIC
 lore:
   - "&7Harvests the essence of slain foes."
