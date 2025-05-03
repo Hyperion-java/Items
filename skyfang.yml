@@ -2,6 +2,8 @@ name: "&5Skyfang"
 material: DIAMOND_SWORD
 type: "&6Expierenced Blade"
 rarity: EPIC
+ability: "champion"
+tier: 1
 lore:
   - "&7Forges sing when the wind shifts."
   - "&7This &6blade&7 gleams with &9sapphire&7 sharpness."
