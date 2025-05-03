@@ -1,0 +1,14 @@
+name: "&6Evergreen Sickle"
+material: DIAMOND_HOE
+type: "&6Experienced Sickle"
+gear_score: 200
+rarity: LEGENDARY
+lore:
+  - "&7Blessed by the radiant &6Demeter&7,"
+  - "&7goddess of &eharvest&7 and &dbeauty&7, this"
+  - "&aEvergreen Sickle &7is gifted only"
+  - "&7to those she deems truly worthy."
+
+stats:
+  farming_fortune: 50
+  prosperity: 25
