@@ -1,0 +1,12 @@
+name: "&5Specter Scythe"
+material: IRON_HOE
+type: "&6Experienced Scythe"
+rarity: EPIC
+lore:
+  - "&7Harvests the essence of slain foes."
+  - "&7Briefly increases speed after a kill."
+  - "&7Wielded by the &5spectral reapers&7 of the Umbral Vale."
+
+stats:
+  damage: 85
+  strength: 25
