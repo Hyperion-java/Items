@@ -1,0 +1,11 @@
+name: "&5Ember Blade"
+material: IRON_SWORD
+type: "&6Experienced Blade"
+rarity: EPIC
+ability: "flame_burst"
+lore:
+  - "&7Burns enemies of &cares&f with the"
+  - "&7ferocious flame of the &4Nether&7.
+stats:
+  damage: 65
+  strength: 30
