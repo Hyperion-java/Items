@@ -1,0 +1,10 @@
+name: "&6Soul Shard"
+material: ENCHANTED_BOOK
+type: "&6Experienced Amulet"
+rarity: LEGENDARY
+ability: "soul_burst"
+lore:
+  - "&7A fragment of raw &dsoul&7 energy."
+stats:
+  amuletdamage: 20
+  amuletdefense: 10
