@@ -1,0 +1,11 @@
+name: "&6Void Reaver"
+material: NETHERITE_SWORD
+type: "&6Experienced Weapon"
+rarity: LEGENDARY
+ability: "void_pull"
+lore:
+  - "&7Wields the essence of the void."
+  - "&7Leeches health from enemies."
+stats:
+  damage: 125
+  strength: 65
