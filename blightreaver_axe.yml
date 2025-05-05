@@ -8,3 +8,4 @@ lore:
 stats:
   damage: 18
   strength: 9
+  speed: -5
