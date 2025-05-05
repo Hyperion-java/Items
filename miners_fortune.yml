@@ -1,0 +1,10 @@
+name: "&aMiner's Fortune"
+material: DIAMOND_PICKAXE
+type: "&aStarter Tool"
+rarity: UNCOMMON
+ability: "lucky_strike"
+lore:
+  - "&7A rare artificat found in golden"
+  - "&7ruins."
+stats:
+  mining_fortune: 25
