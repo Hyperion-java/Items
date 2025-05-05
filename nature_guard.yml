@@ -1,0 +1,9 @@
+name: "&5Nature's Guard"
+material: DIAMOND_CHESTPLATE
+type: "&6Experienced Chestplate"
+rarity: EPIC
+lore:
+  - "&7Blessed by the forest spirits."
+stats:
+  defense: 55
+  heat_resistance: 10
