@@ -1,0 +1,12 @@
+name: "&6Sword of Power"
+material: DIAMOND_SWORD
+type: "&6Experienced Blade"
+rarity: LEGENDARY
+ability: "power_slash"
+lore:
+  - "&7A &6powerful sword&7 blessed with raw"
+  - "&7strength. Each swing shakes the air,"
+  - "&7echoing with the &5power of giants&7."
+stats:
+  damage: 145
+  strength: 65
