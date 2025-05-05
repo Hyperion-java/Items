@@ -1,0 +1,11 @@
+name: "&9Frozen Fang"
+material: IRON_SWORD
+type: "&9Intermediate Blade"
+ability: "freeze"
+rarity: RARE
+lore:
+  - "&7A chilling blade that slows its victims."
+stats:
+  damage: 35
+  strength: 25
+  speed: -5
