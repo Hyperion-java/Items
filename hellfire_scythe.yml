@@ -6,4 +6,4 @@ ability: "soul_harvest"
 lore:
   - "&7Feeds on the souls of fallen enemies."
 stats:
-  damage: 85
+  truedamage: 85
