@@ -1,0 +1,9 @@
+name: "&5Hellfire Scythe"
+material: DIAMOND_HOE
+type: "&6Experienced Scythe"
+rarity: EPIC
+ability: "soul_harvest"
+lore:
+  - "&7Feeds on the souls of fallen enemies."
+stats:
+  damage: 85
