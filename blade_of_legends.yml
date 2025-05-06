@@ -2,7 +2,7 @@ name: "&6Blade of Legends"
 material: GOLDEN_SWORD
 type: "&6Experienced Blade"
 rarity: LEGENDARY
-ability: "Heavenly Slash"
+ability: "heavenly_slash"
 lore:
   - "&7Forged by &6ancient gods&7 to slay the"
   - "&7legendary &4titans&7.
