@@ -1,0 +1,11 @@
+name: "&6Phoenix Feather"
+material: FEATHER
+type: "&6Experienced AMulet"
+ability: "rebirth"
+rarity: LEGENDARY
+lore:
+  - "&7Blessed by the &4Phoenix &7the"
+  - "&7Legendary Bird."
+stats:
+  amuletdamage: 15
+  amuletdefense: 25
