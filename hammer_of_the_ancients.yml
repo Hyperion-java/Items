@@ -1,0 +1,10 @@
+name: "&6Hammer of the Ancients"
+material: GOLDEN_AXE
+type: "&6Experienced Hammer"
+rarity: LEGENDARY
+ability: "holy_slam"
+lore:
+  - "&7Wielded by an ancient &eking of light&7."
+stats:
+  damage: 160
+  strength: 45
