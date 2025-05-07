@@ -1,0 +1,9 @@
+name: "&9Ebonbrand"
+material: IRON_SWORD
+type: "&9Dark Blade"
+rarity: RARE
+lore:
+  - "&7Forged in the shadows of forgotten gods."
+stats:
+  damage: 27
+  strength: 11
