@@ -1,0 +1,9 @@
+name: "&9Nightstalker"
+material: IRON_SWORD
+type: "&9Assassin Blade"
+rarity: RARE
+lore:
+  - "&7Preferred by the shadows."
+stats:
+  damage: 31
+  strength: 13
