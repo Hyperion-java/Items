@@ -1,0 +1,9 @@
+name: "&9Celestial Saber"
+material: IRON_SWORD
+type: "&9Stellar Blade"
+rarity: RARE
+lore:
+  - "&7Glimmers with fragments of fallen stars."
+stats:
+  damage: 24
+  strength: 13
