@@ -1,0 +1,9 @@
+name: "&9Dragon’s Claw"
+  material: IRON_SWORD
+  type: "&9Wyrm Blade"
+  rarity: RARE
+  lore:
+    - "&7Forged from the claw of an ancient dragon."
+  stats:
+    damage: 35
+    strength: 15
