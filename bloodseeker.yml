@@ -1,0 +1,9 @@
+name: "&9Bloodseeker"
+material: IRON_SWORD
+type: "&9Vampiric Blade"
+rarity: RARE
+lore:
+  - "&7Hungers for the blood of foes."
+stats:
+  damage: 32
+  strength: 14
