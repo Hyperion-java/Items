@@ -1,0 +1,9 @@
+name: "&9Obsidian Fang"
+material: IRON_SWORD
+type: "&9Intermediate Blade"
+rarity: RARE
+lore:
+  - "&7Carved from obsidian and cursed fang."
+stats:
+  damage: 25
+  strength: 12
