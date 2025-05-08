@@ -1,0 +1,10 @@
+name: "&9Bonecarver"
+material: IRON_SWORD
+type: "&9Necrotic Blade"
+rarity: RARE
+ability: "summon"
+lore:
+  - "&7Harvests marrow from the dead."
+stats:
+  damage: 19
+  strength: 9
