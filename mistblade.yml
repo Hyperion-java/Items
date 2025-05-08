@@ -1,0 +1,9 @@
+name: "&9Mistblade"
+material: IRON_SWORD
+type: "&9Ethereal Blade"
+rarity: RARE
+lore:
+  - "&7Shrouded in a permanent mist."
+stats:
+  damage: 25
+  strength: 11
