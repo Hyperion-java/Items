@@ -1,0 +1,9 @@
+name: "&fScrapmetal Helm"
+material: IRON_HELMET
+type: "&fPatchwork Helmet"
+rarity: COMMON
+lore:
+  - "&7Made from scraps hammered together."
+  - "&7Better than nothing… barely."
+stats:
+  defense: 3
