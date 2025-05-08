@@ -5,7 +5,7 @@ rarity: LEGENDARY
 ability: "heavenly_slash"
 lore:
   - "&7Forged by &6ancient gods&7 to slay the"
-  - "&7legendary &4titans&7.
+  - "&7legendary &4titans&7."
 stats:
   damage: 175
   strength: 65
