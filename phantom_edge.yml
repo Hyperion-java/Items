@@ -1,0 +1,9 @@
+name: "&9Phantom Edge"
+material: IRON_SWORD
+type: "&9Spectral Blade"
+rarity: RARE
+lore:
+  - "&7Strikes from the realm of spirits."
+stats:
+  damage: 25
+  strength: 12
