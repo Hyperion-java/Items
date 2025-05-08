@@ -1,0 +1,10 @@
+name: "&fGuard's Broadsword"
+material: IRON_SWORD
+type: "&fStandard Blade"
+rarity: COMMON
+lore:
+  - "&7A sword issued to town guards."
+  - "&7Reliable but nothing special."
+stats:
+  damage: 12
+  strength: 4
