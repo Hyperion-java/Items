@@ -1,0 +1,10 @@
+name: "&fTraveler's Dagger"
+material: WOODEN_SWORD
+type: "&fLight Blade"
+rarity: COMMON
+lore:
+  - "&7A simple dagger used by travelers."
+  - "&7Easy to conceal and quick to draw."
+stats:
+  damage: 8
+  strength: 3
