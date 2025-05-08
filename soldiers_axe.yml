@@ -1,0 +1,10 @@
+name: "&fSoldier’s Axe"
+material: IRON_AXE
+type: "&fField Axe"
+rarity: COMMON
+lore:
+  - "&7A standard-issue military axe."
+  - "&7Worn from years of use."
+stats:
+  damage: 14
+  strength: 5
