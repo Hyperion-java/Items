@@ -1,0 +1,10 @@
+name: "&fOld Guard's Sword"
+material: STONE_SWORD
+type: "&fWorn Sword"
+rarity: COMMON
+lore:
+  - "&7Once wielded by a city guard."
+  - "&7Now dull and chipped."
+stats:
+  damage: 11
+  strength: 4
