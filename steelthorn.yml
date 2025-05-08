@@ -1,0 +1,9 @@
+name: "&9Steelthorn"
+material: IRON_SWORD
+type: "&9Thorned Blade"
+rarity: RARE
+lore:
+  - "&7Barbs tear through enemy defenses."
+stats:
+  damage: 23
+  strength: 12
