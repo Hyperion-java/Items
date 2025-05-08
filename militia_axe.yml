@@ -1,0 +1,10 @@
+name: "&fMilitia Axe"
+material: STONE_AXE
+type: "&fBasic Axe"
+rarity: COMMON
+lore:
+  - "&7A rough stone axe wielded by villagers."
+  - "&7Not very reliable in battle."
+stats:
+  damage: 10
+  strength: 3
