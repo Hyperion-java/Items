@@ -1,0 +1,9 @@
+name: "&9Abyssal Edge"
+material: IRON_SWORD
+type: "&9Deepsea Blade"
+rarity: RARE
+lore:
+  - "&7Forged in the trenches of the abyss."
+stats:
+  damage: 31
+  strength: 14
