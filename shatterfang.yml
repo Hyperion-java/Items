@@ -1,0 +1,9 @@
+name: "&9Shatterfang"
+material: IRON_SWORD
+type: "&9Fractured Blade"
+rarity: RARE
+lore:
+  - "&7Said to break bones with each swing."
+stats:
+  damage: 26
+  strength: 12
