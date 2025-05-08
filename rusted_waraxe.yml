@@ -1,0 +1,10 @@
+name: "&fRusted Waraxe"
+material: IRON_AXE
+type: "&fOld War Axe"
+rarity: COMMON
+lore:
+  - "&7An axe once used in battle."
+  - "&7Rust eats at its blade."
+stats:
+  damage: 13
+  strength: 4
