@@ -1,0 +1,9 @@
+name: "&9Molten Fang"
+material: IRON_SWORD
+type: "&9Blazing Blade"
+rarity: RARE
+lore:
+  - "&7Burns with the fire of the earth."
+stats:
+  damage: 30
+  strength: 14
