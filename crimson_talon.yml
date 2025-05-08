@@ -1,0 +1,9 @@
+name: "&9Crimson Talon"
+material: IRON_SWORD
+type: "&9Blood Blade"
+rarity: RARE
+lore:
+  - "&7Drips with the essence of fallen beasts."
+stats:
+  damage: 29
+  strength: 13
