@@ -1,0 +1,9 @@
+name: "&9Duskbringer"
+material: IRON_SWORD
+type: "&9Twilight Blade"
+rarity: RARE
+lore:
+  - "&7Bears the last light of a dying sun."
+stats:
+  damage: 33
+  strength: 14
