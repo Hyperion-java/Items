@@ -1,0 +1,9 @@
+name: "&9Windslicer"
+material: IRON_SWORD
+type: "&9Swift Blade"
+rarity: RARE
+lore:
+  - "&7Slices through air with deadly speed."
+stats:
+  damage: 21
+  strength: 11
