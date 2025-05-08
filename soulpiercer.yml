@@ -1,0 +1,9 @@
+name: "&9Soulpiercer"
+material: IRON_SWORD
+type: "&9Spirit Blade"
+rarity: RARE
+lore:
+  - "&7Pierces the veil between life and death."
+stats:
+  damage: 34
+  strength: 15
