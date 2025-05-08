@@ -1,0 +1,10 @@
+name: "&fCracked Iron Sword"
+material: IRON_SWORD
+type: "&fDamaged Blade"
+rarity: COMMON
+lore:
+  - "&7A sword with cracks along the edge."
+  - "&7Could break any moment."
+stats:
+  damage: 9
+  strength: 4
