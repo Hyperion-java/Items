@@ -1,0 +1,9 @@
+name: "&fIronclad Greaves"
+material: IRON_LEGGINGS
+type: "&fSteel-Plated Leggings"
+rarity: COMMON
+lore:
+  - "&7Leg armor with patched iron plates."
+  - "&7A bit restrictive but durable."
+stats:
+  defense: 6
