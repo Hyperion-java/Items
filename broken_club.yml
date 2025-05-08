@@ -1,0 +1,10 @@
+name: "&fBroken Club"
+material: WOODEN_SWORD
+type: "&fCrude Weapon"
+rarity: COMMON
+lore:
+  - "&7A stick with splinters."
+  - "&7Very unreliable."
+stats:
+  damage: 2
+  strength: 1
