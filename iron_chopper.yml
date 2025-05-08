@@ -1,0 +1,10 @@
+name: "&fIron Chopper"
+material: IRON_AXE
+type: "&fHeavy Axe"
+rarity: COMMON
+lore:
+  - "&7A heavy axe with a dull blade."
+  - "&7Requires strength to wield."
+stats:
+  damage: 12
+  strength: 4
