@@ -1,0 +1,9 @@
+name: "&fChainmail Vest"
+material: IRON_CHESTPLATE
+type: "&fLight Armor"
+rarity: COMMON
+lore:
+  - "&7A vest of basic chainmail."
+  - "&7Protects vital organs."
+stats:
+  defense: 5
