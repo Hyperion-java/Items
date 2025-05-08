@@ -1,0 +1,9 @@
+name: "&9Voidpiercer"
+material: IRON_SWORD
+type: "&9Null Blade"
+rarity: RARE
+lore:
+  - "&7A blade that rends the fabric of reality."
+stats:
+  damage: 33
+  strength: 14
