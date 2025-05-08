@@ -1,0 +1,10 @@
+name: "&fHunter's Hatchet"
+material: STONE_AXE
+type: "&fCompact Axe"
+rarity: COMMON
+lore:
+  - "&7A small axe favored by hunters."
+  - "&7Lightweight and easy to swing."
+stats:
+  damage: 9
+  strength: 3
