@@ -1,0 +1,9 @@
+name: "&fQuilted Legwraps"
+material: LEATHER_LEGGINGS
+type: "&fPadded Leggings"
+rarity: COMMON
+lore:
+  - "&7Thick quilted fabric wrapped around legs."
+  - "&7Offers slight protection against cuts."
+stats:
+  defense: 2
