@@ -1,0 +1,9 @@
+name: "&fIronbound Sabatons"
+material: IRON_BOOTS
+type: "&fReinforced Boots"
+rarity: COMMON
+lore:
+  - "&7Boots reinforced with metal plates."
+  - "&7Good for marching long distances."
+stats:
+  defense: 4
