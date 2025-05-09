@@ -1,0 +1,10 @@
+name: "&fMercenary’s Cutter"
+material: STONE_SWORD
+type: "&fSimple Sword"
+rarity: COMMON
+lore:
+  - "&7A plain blade carried by mercenaries."
+  - "&7Not flashy, but reliable."
+stats:
+  damage: 11
+  strength: 4
