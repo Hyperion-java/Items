@@ -1,0 +1,10 @@
+name: "&fStonecutter’s Axe"
+material: STONE_AXE
+type: "&fRough Axe"
+rarity: COMMON
+lore:
+  - "&7A heavy axe used for stonework."
+  - "&7Not intended for battle, but effective."
+stats:
+  damage: 10
+  strength: 3
