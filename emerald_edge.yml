@@ -1,0 +1,10 @@
+name: "&aEmerald Edge"
+material: IRON_SWORD
+type: "&aEnchanted Sword"
+rarity: UNCOMMON
+lore:
+  - "&7A sword with a faint green glow."
+  - "&7Honed by mysterious forces."
+stats:
+  damage: 18
+  strength: 6
