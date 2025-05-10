@@ -1,0 +1,9 @@
+name: "&aIronfist Helm"
+material: IRON_HELMET
+type: "&aReinforced Helmet"
+rarity: UNCOMMON
+lore:
+  - "&7A helmet with extra forehead plating."
+  - "&7Designed for head-first combat."
+stats:
+  defense: 5
