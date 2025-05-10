@@ -1,0 +1,10 @@
+name: "&aBandit’s Dirk"
+material: STONE_SWORD
+type: "&aSharp Knife"
+rarity: UNCOMMON
+lore:
+  - "&7A cruel dagger used by thieves."
+  - "&7Leaves jagged wounds."
+stats:
+  damage: 16
+  strength: 4
