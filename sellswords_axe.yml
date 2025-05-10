@@ -1,0 +1,10 @@
+name: "&aSellsword’s Axe"
+material: STONE_AXE
+type: "&aMercenary Axe"
+rarity: UNCOMMON
+lore:
+  - "&7A battle-worn axe wielded by mercenaries."
+  - "&7Simple, yet deadly."
+stats:
+  damage: 19
+  strength: 6
