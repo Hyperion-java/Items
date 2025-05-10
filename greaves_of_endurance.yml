@@ -1,0 +1,9 @@
+name: "&aGreaves of Endurance"
+material: IRON_LEGGINGS
+type: "&aSturdy Leg Armor"
+rarity: UNCOMMON
+lore:
+  - "&7These greaves never chafe or wear."
+  - "&7Crafted for long marches."
+stats:
+  defense: 8
