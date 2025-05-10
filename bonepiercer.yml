@@ -1,0 +1,10 @@
+name: "&aBonepiercer"
+material: STONE_SWORD
+type: "&aSharp Rapier"
+rarity: UNCOMMON
+lore:
+  - "&7A slender blade made for piercing armor."
+  - "&7Leaves narrow, deep wounds."
+stats:
+  damage: 17
+  strength: 5
