@@ -1,0 +1,10 @@
+name: "&aStonebreaker Axe"
+material: IRON_AXE
+type: "&aHeavy War Axe"
+rarity: UNCOMMON
+lore:
+  - "&7This axe can split stone in two."
+  - "&7Requires great strength to wield."
+stats:
+  damage: 23
+  strength: 8
