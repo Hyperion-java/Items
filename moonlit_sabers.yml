@@ -1,0 +1,10 @@
+name: "&aMoonlit Sabers"
+material: IRON_SWORD
+type: "&aTwin Blades"
+rarity: UNCOMMON
+lore:
+  - "&7A pair of blades that shimmer at night."
+  - "&7Favored by assassins."
+stats:
+  damage: 22
+  strength: 7
