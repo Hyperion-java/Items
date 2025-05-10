@@ -1,0 +1,9 @@
+name: "&aIronhide Chestguard"
+material: IRON_CHESTPLATE
+type: "&aHeavy Chestplate"
+rarity: UNCOMMON
+lore:
+  - "&7A sturdy chestplate lined with iron plates."
+  - "&7Resistant to minor magic."
+stats:
+  defense: 9
