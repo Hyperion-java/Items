@@ -1,0 +1,12 @@
+name: "&aBeginner’s Pole"
+material: FISHING_ROD
+type: "&aStarter Rod"
+rarity: UNCOMMON
+lore:
+  - "&7A basic rod for anybody who wants"
+  - "&7to start a fishing career."
+
+stats:
+  damage: 25
+  strength: 15
+  fishing_fortune: 5
