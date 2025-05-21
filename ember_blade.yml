@@ -1,6 +1,6 @@
 name: "&5Ember Blade"
 material: IRON_SWORD
-type: "&6Experienced Blade"
+type: SWORD
 rarity: EPIC
 ability: "flame_burst"
 lore:
