@@ -1,6 +1,6 @@
 name: "&aFirewood Axe"
 material: WOODEN_AXE
-type: "&aCursed Axe"
+type: AXE
 rarity: UNCOMMON
 lore:
   - "&7An old axe that burns faintly when swung."
