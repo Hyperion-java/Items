@@ -1,6 +1,6 @@
 name: "&6Hammer of the Ancients"
 material: GOLDEN_AXE
-type: "&6Experienced Hammer"
+type: GREAT_AXE
 rarity: LEGENDARY
 ability: "holy_slam"
 lore:
