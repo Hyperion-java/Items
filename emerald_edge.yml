@@ -1,6 +1,6 @@
 name: "&aEmerald Edge"
 material: IRON_SWORD
-type: "&aEnchanted Sword"
+type: SWORD
 rarity: UNCOMMON
 lore:
   - "&7A sword with a faint green glow."
