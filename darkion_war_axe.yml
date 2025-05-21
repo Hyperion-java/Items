@@ -1,6 +1,6 @@
 name: "&9Darkiron War Axe"
 material: IRON_AXE
-type: "&9Intermediate Cleaver"
+type: AXE
 rarity: RARE
 lore:
   - "&7Forged from dense ore in the &9Deep Halls&7."
