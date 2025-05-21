@@ -1,6 +1,6 @@
 name: "&fCopper Dagger"
 material: GOLDEN_SWORD
-type: "&aStarter Blade"
+type: KNIFE
 rarity: COMMON
 lore:
   - "&7A small, easy-to-hide dagger."
