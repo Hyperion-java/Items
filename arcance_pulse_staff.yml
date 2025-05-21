@@ -1,6 +1,6 @@
 name: "&5Arcane Pulse Staff"
 material: BLAZE_ROD
-type: "&6Experienced Staff"
+type: STAFF
 rarity: EPIC
 ability: "projectile_barrage"
 tier: 1
