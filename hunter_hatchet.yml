@@ -1,6 +1,6 @@
 name: "&fHunter's Hatchet"
 material: STONE_AXE
-type: "&fCompact Axe"
+type: AXE
 rarity: COMMON
 lore:
   - "&7A small axe favored by hunters."
