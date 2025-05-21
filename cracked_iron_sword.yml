@@ -1,6 +1,6 @@
 name: "&fCracked Iron Sword"
 material: IRON_SWORD
-type: "&fDamaged Blade"
+type: SWORD
 rarity: COMMON
 lore:
   - "&7A sword with cracks along the edge."
