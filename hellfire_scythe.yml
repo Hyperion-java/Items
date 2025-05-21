@@ -1,6 +1,6 @@
 name: "&5Hellfire Scythe"
 material: DIAMOND_HOE
-type: "&6Experienced Scythe"
+type: SCYTHE
 rarity: EPIC
 ability: "soul_harvest"
 lore:
