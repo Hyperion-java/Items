@@ -1,6 +1,6 @@
 name: "&aBonepiercer"
 material: STONE_SWORD
-type: "&aSharp Rapier"
+type: RAPIER
 rarity: UNCOMMON
 lore:
   - "&7A slender blade made for piercing armor."
