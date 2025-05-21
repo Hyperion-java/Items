@@ -1,6 +1,6 @@
 name: "&9Dragon’s Claw"
 material: IRON_SWORD
-type: "&9Wyrm Blade"
+type: SWORD
 rarity: RARE
 lore:
   - "&7Forged from the claw of an ancient dragon."
