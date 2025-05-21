@@ -3,7 +3,7 @@ material: STICK
 rarity: ASCENDED
 ability: "laser"
 tier: 1
-type: "&4funny sticky"
+type: FUNNY
 lore:
   - "&6this stick is not op"
 
