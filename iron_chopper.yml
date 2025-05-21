@@ -1,6 +1,6 @@
 name: "&fIron Chopper"
 material: IRON_AXE
-type: "&fHeavy Axe"
+type: AXE
 rarity: COMMON
 lore:
   - "&7A heavy axe with a dull blade."
