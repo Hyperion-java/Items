@@ -1,6 +1,6 @@
 name: "&fIronclad Rapier"
 material: IRON_SWORD
-type: "&aStarter Blade"
+type: RAPIER
 rarity: COMMON
 lore:
   - "&7A simple but sturdy blade."
