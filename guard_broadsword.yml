@@ -1,6 +1,6 @@
 name: "&fGuard's Broadsword"
 material: IRON_SWORD
-type: "&fStandard Blade"
+type: LONGSWORD
 rarity: COMMON
 lore:
   - "&7A sword issued to town guards."
