@@ -1,6 +1,6 @@
 name: "&9Celestial Saber"
 material: IRON_SWORD
-type: "&9Stellar Blade"
+type: SABER
 rarity: RARE
 lore:
   - "&7Glimmers with fragments of fallen stars."
