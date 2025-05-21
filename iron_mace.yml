@@ -1,6 +1,6 @@
 name: "&fIron Mace"
 material: IRON_SWORD
-type: "&aStarter Mace"
+type: MACE
 rarity: COMMON
 lore:
   - "&7A heavy weapon used for smashing."
