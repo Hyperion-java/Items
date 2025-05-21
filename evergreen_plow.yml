@@ -1,7 +1,6 @@
 name: "&6Evergreen Sickle"
 material: DIAMOND_HOE
-type: "&6Experienced Sickle"
-gear_score: 200
+type: TOOL
 rarity: LEGENDARY
 lore:
   - "&7Blessed by the radiant &6Demeter&7,"
