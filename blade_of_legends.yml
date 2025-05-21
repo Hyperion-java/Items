@@ -1,6 +1,6 @@
 name: "&6Blade of Legends"
 material: GOLDEN_SWORD
-type: "&6Experienced Blade"
+type: SWORD
 rarity: LEGENDARY
 ability: "heavenly_slash"
 lore:
