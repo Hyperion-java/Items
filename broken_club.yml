@@ -1,6 +1,6 @@
 name: "&fBroken Club"
 material: WOODEN_SWORD
-type: "&fCrude Weapon"
+type: TOOL
 rarity: COMMON
 lore:
   - "&7A stick with splinters."
