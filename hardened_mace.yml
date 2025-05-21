@@ -1,6 +1,6 @@
 name: "&fHardened Mace"
 material: IRON_AXE
-type: "&aStarter Mace"
+type: MACE
 rarity: COMMON
 lore:
   - "&7A simple mace with a heavy head."
