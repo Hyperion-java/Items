@@ -1,6 +1,6 @@
 name: "&9Ebonbrand"
 material: IRON_SWORD
-type: "&9Dark Blade"
+type: SWORD
 rarity: RARE
 lore:
   - "&7Forged in the shadows of forgotten gods."
