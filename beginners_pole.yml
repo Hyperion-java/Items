@@ -1,6 +1,6 @@
 name: "&aBeginner’s Pole"
 material: FISHING_ROD
-type: "&aStarter Rod"
+type: TOOL
 rarity: UNCOMMON
 lore:
   - "&7A basic rod for anybody who wants"
