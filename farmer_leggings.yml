@@ -1,8 +1,6 @@
 name: "Farmer Legggings"
 material: LEATHER_LEGGINGS
 rarity: COMMON
-type: "&aStarter Armour"
-
 stats:
   defense: 5
   prosperity: 2
