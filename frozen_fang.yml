@@ -1,6 +1,6 @@
 name: "&9Frozen Fang"
 material: IRON_SWORD
-type: "&9Intermediate Blade"
+type: SWORD
 ability: "freeze"
 rarity: RARE
 lore:
