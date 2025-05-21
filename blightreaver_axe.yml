@@ -1,6 +1,6 @@
 name: "&9Blightreaver Axe"
 material: DIAMOND_AXE
-type: "&9Intermediate Axe"
+type: AXE
 rarity: RARE
 lore:
   - "&fA heavy axe soaked in venomous essence."
