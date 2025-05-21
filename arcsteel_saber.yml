@@ -1,6 +1,6 @@
 name: "&9Arcsteel Saber"
 material: IRON_SWORD
-type: "&9Intermediate Blade"
+type: SABER
 rarity: RARE
 lore:
   - "&7Infused with stable arcane steel."
