@@ -1,6 +1,6 @@
 name: "&aIron Claymore"
 material: IRON_SWORD
-type: "&aStarter Blade"
+type: LONGSWORD
 rarity: UNCOMMON
 lore:
   - "&7A large, two-handed sword."
