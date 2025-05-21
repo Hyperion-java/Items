@@ -1,6 +1,6 @@
 name: "&aCaver Chisel"
 material: STONE_PICKAXE
-type: "&aStarter Tool"
+type: PICKAXE
 rarity: UNCOMMON
 lore:
   - ""
