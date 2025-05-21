@@ -1,9 +1,7 @@
 name: "&5Frostbrand Spear"
 material: TRIDENT
-type: "&6Experienced Spear"
+type: SPEAR
 rarity: EPIC
-ability: "freeze"
-tier: 1
 lore:
   - "&7Casts &bfrost&7 in its wake with every throw."
   - "&7Can &bfreeze enemies solid&7 for a brief time."
