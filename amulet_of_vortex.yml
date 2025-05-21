@@ -2,7 +2,7 @@ name: "&6Amulet of the Vortex"
 material: ENCHANTED_BOOK
 ability: "vortex"
 tier: 1
-type: "&6Experienced Amulet"
+type: AMULET
 rarity: LEGENDARY
 lore:
   - "&7An amulet imbued with the power"
