@@ -1,7 +1,9 @@
 name: "&9Frostbite Axe"
 material: IRON_AXE
-type: "&9Intermediate Axe"
+type: AXE
 rarity: RARE
+ability: "freeze"
+tier: 1
 lore:
   - "&7Each swing destroying the resolve"
   - "&7of your enemy."
