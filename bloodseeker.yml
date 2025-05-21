@@ -1,6 +1,6 @@
 name: "&9Bloodseeker"
 material: IRON_SWORD
-type: "&9Vampiric Blade"
+type: SWORD
 rarity: RARE
 lore:
   - "&7Hungers for the blood of foes."
