@@ -1,6 +1,6 @@
 name: "&fIron Shortsword"
 material: IRON_SWORD
-type: "&aStarter Blade"
+type: SWORD
 rarity: COMMON
 lore:
   - "&7A short, reliable sword."
