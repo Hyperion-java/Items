@@ -1,6 +1,7 @@
 name: "&aRogue's Tunic"
 material: LEATHER_CHESTPLATE
 rarity: UNCOMMON
+type: ARMOR
 lore:
   - "&7Benefits and Drawbacks is the"
   - "&7only definition of this set!"
