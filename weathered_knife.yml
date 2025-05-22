@@ -1,6 +1,6 @@
 name: "&aWeathered Knife"
 material: STONE_SWORD
-type: "&aStarter Blade"
+type: KNIFE
 rarity: UNCOMMON
 lore:
   - "&7A once-reliable tool, now brittle"
