@@ -1,6 +1,6 @@
 name: "&fOld Guard's Sword"
 material: STONE_SWORD
-type: "&fWorn Sword"
+type: SWORD
 rarity: COMMON
 lore:
   - "&7Once wielded by a city guard."
