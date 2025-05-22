@@ -1,6 +1,6 @@
 name: "&fMercenary’s Cutter"
 material: STONE_SWORD
-type: "&fSimple Sword"
+type: SWORD
 rarity: COMMON
 lore:
   - "&7A plain blade carried by mercenaries."
