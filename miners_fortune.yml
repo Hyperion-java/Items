@@ -1,6 +1,6 @@
 name: "&aMiner's Fortune"
 material: DIAMOND_PICKAXE
-type: "&aStarter Tool"
+type: TOOL
 rarity: UNCOMMON
 ability: "lucky_strike"
 lore:
