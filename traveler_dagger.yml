@@ -1,6 +1,6 @@
 name: "&fTraveler's Dagger"
 material: WOODEN_SWORD
-type: "&fLight Blade"
+type: SWORD
 rarity: COMMON
 lore:
   - "&7A simple dagger used by travelers."
