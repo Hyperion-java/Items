@@ -1,6 +1,7 @@
 name: "&aIronhide Chestguard"
 material: IRON_CHESTPLATE
 rarity: UNCOMMON
+type: ARMOR
 lore:
   - "&7A sturdy chestplate lined with iron plates."
   - "&7Resistant to minor magic."
