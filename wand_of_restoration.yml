@@ -1,6 +1,6 @@
 name: "&aWand of Restoration"
 material: STICK
-type: "&aStarter Wand"
+type: STAFF
 rarity: UNCOMMON
 ability: "recovery"
 tier: 1
