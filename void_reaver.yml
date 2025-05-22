@@ -1,6 +1,6 @@
 name: "&6Void Reaver"
 material: NETHERITE_SWORD
-type: "&6Experienced Weapon"
+type: SWORD
 rarity: LEGENDARY
 ability: "void_pull"
 lore:
