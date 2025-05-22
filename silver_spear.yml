@@ -1,6 +1,6 @@
 name: "&aSilver Spear"
 material: IRON_SWORD
-type: "&aStarter Spear"
+type: SPEAR
 rarity: UNCOMMON
 ability: "boost"
 tier: 1
