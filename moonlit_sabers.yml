@@ -1,6 +1,6 @@
 name: "&aMoonlit Sabers"
 material: IRON_SWORD
-type: "&aTwin Blades"
+type: SABER
 rarity: UNCOMMON
 lore:
   - "&7A pair of blades that shimmer at night."
