@@ -1,6 +1,6 @@
 name: "&aWildwood Axe"
 material: STONE_AXE
-type: "&aNature’s Axe"
+type: AXE
 rarity: UNCOMMON
 lore:
   - "&7Forged from enchanted wildwood."
