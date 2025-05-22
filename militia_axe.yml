@@ -1,6 +1,6 @@
 name: "&fMilitia Axe"
 material: STONE_AXE
-type: "&fBasic Axe"
+type: AXE
 rarity: COMMON
 lore:
   - "&7A rough stone axe wielded by villagers."
