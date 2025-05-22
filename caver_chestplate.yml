@@ -1,6 +1,7 @@
 name: "&aCaver Torso"
 material: GOLDEN_CHESTPLATE
 rarity: UNCOMMON
+type: ARMOR
 lore:
   - "&6Full Set Bonus: &aFast Miner"
   - "&7When wearing the full set of"
