@@ -1,6 +1,6 @@
 name: "&aStonebreaker Axe"
 material: IRON_AXE
-type: "&aHeavy War Axe"
+type: AXE
 rarity: UNCOMMON
 lore:
   - "&7This axe can split stone in two."
