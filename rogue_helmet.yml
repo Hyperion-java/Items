@@ -1,6 +1,7 @@
 name: "&aRogue's Cap"
 material: LEATHER_HELMET
 rarity: UNCOMMON
+type: ARMOR
 lore:
   - "&7Benefits and Drawbacks is the"
   - "&7only definition of this set!"
