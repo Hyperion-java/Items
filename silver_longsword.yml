@@ -1,6 +1,6 @@
 name: "&aSilver Longsword"
 material: IRON_SWORD
-type: "&aStarter Sword"
+type: LONGSWORD
 rarity: UNCOMMON
 lore:
   - "&7A finely crafted sword."
