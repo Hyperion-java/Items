@@ -1,6 +1,6 @@
 name: "&aNature's Touch Staff"
 material: BLAZE_ROD
-type: "&aStarter Staff"
+type: STAFF
 rarity: UNCOMMON
 ability: "recovery"
 tier: 1
