@@ -1,5 +1,6 @@
 name: "&aKnight's Leggings"
 material: IRON_LEGGINGS
+type: ARMOR
 rarity: UNCOMMON
 lore:
   - "&7Ideal for tank and support roles,"
