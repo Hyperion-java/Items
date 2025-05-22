@@ -1,6 +1,7 @@
 name: "&aHunter's Jerkin"
 material: LEATHER_CHESTPLATE
 rarity: UNCOMMON
+type: ARMOR
 lore:
   - "&7A tough leather vest reinforced with bone."
   - "&7Favored by forest hunters."
