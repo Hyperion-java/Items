@@ -1,6 +1,6 @@
 name: "&9Mistblade"
 material: IRON_SWORD
-type: "&9Ethereal Blade"
+type: SWORD
 rarity: RARE
 lore:
   - "&7Shrouded in a permanent mist."
