@@ -1,5 +1,6 @@
 name: "&fIronclad Greaves"
 material: IRON_LEGGINGS
+type: ARMOR
 rarity: COMMON
 lore:
   - "&7Leg armor with patched iron plates."
