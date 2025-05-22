@@ -1,6 +1,7 @@
 name: "&fPatchwork Jerkin"
 material: LEATHER_CHESTPLATE
 rarity: COMMON
+type: ARMOR
 lore:
   - "&7A padded jerkin reinforced with scraps."
   - "&7Offers slight protection."
