@@ -1,5 +1,6 @@
 name: "&aRogue's Pants"
 material: LEATHER_LEGGINGS
+type: ARMOR
 rarity: UNCOMMON
 lore:
   - "&7Benefits and Drawbacks is the"
