@@ -1,6 +1,7 @@
 name: "&aKnight's Helmet"
 material: IRON_HELMET
 rarity: UNCOMMON
+type: ARMOR
 lore:
   - "&7Ideal for tank and support roles,"
   - "&7Created to defend and fight when"
