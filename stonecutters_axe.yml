@@ -1,6 +1,6 @@
 name: "&fStonecutter’s Axe"
 material: STONE_AXE
-type: "&fRough Axe"
+type: AXE
 rarity: COMMON
 lore:
   - "&7A heavy axe used for stonework."
