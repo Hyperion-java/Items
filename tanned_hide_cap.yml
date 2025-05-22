@@ -1,6 +1,7 @@
 name: "&fTanned Hide Cap"
 material: LEATHER_HELMET
 rarity: COMMON
+type: ARMOR
 lore:
   - "&7A cap stitched from tough animal hide."
   - "&7Provides some warmth and defense."
