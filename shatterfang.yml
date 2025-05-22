@@ -1,6 +1,6 @@
 name: "&9Shatterfang"
 material: IRON_SWORD
-type: "&9Fractured Blade"
+type: SWORD
 rarity: RARE
 lore:
   - "&7Said to break bones with each swing."
