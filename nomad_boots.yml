@@ -1,6 +1,7 @@
 name: "&fNomad’s Boots"
 material: LEATHER_BOOTS
 rarity: COMMON
+type: ARMOR
 lore:
   - "&7Sturdy boots made for long journeys."
   - "&7Reinforced soles protect from rough paths."
