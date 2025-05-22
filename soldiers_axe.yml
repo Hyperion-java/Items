@@ -1,6 +1,6 @@
 name: "&fSoldier’s Axe"
 material: IRON_AXE
-type: "&fField Axe"
+type: AXE
 rarity: COMMON
 lore:
   - "&7A standard-issue military axe."
