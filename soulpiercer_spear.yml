@@ -1,6 +1,6 @@
 name: "&9Soulpiercer Spear"
 material: IRON_SWORD
-type: "&9Intermediate Spear"
+type: SPEAR
 rarity: RARE
 ability: "boost"
 tier: 2
