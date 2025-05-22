@@ -1,6 +1,6 @@
 name: "Dented Helm"
 material: IRON_HELMET
-
+type: ARMOR
 rarity: COMMON
 lore:
   - "&7Each dent tells a story—a battle"
