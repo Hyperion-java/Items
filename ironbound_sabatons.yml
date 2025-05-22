@@ -1,6 +1,7 @@
 name: "&fIronbound Sabatons"
 material: IRON_BOOTS
 rarity: COMMON
+type: ARMOR
 lore:
   - "&7Boots reinforced with metal plates."
   - "&7Good for marching long distances."
