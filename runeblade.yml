@@ -1,6 +1,6 @@
 name: "&9Runeblade"
 material: IRON_SWORD
-type: "&9Arcane Blade"
+type: SWORD
 rarity: RARE
 lore:
   - "&7Etched with forgotten runes of power."
