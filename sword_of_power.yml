@@ -1,6 +1,6 @@
 name: "&6Sword of Power"
 material: DIAMOND_SWORD
-type: "&6Experienced Blade"
+type: SWORD
 rarity: LEGENDARY
 ability: "power_slash"
 lore:
