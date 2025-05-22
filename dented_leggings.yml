@@ -1,6 +1,7 @@
-name: "Dented Leggings "
+name: "Dented Leggings"
 material: IRON_LEGGINGS
 rarity: COMMON
+type: ARMOR
 lore:
   - "&7Each dent tells a story—a battle"
   - "&7survived, a blow endured."
