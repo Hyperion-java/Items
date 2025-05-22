@@ -1,6 +1,6 @@
 name: "&7Rusted Dagger"
 material: STONE_SWORD
-type: "&aStarter Blade"
+type: KNIFE
 rarity: COMMON
 lore:
   - "&7Once sharp, now dulled by age."
