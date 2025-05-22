@@ -1,6 +1,6 @@
 name: "&9Windcarver Dagger"
 material: GOLDEN_SWORD
-type: "&9Intermediate Dagger"
+type: KNIFE
 rarity: RARE
 lore:
   - "&7Crafted from silverleaf and skyshard crystal."
