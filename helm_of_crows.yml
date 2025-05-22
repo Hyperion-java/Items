@@ -1,6 +1,7 @@
 name: "&aHelm of Crows"
 material: LEATHER_HELMET
 rarity: UNCOMMON
+type: ARMOR
 lore:
   - "&7A helmet adorned with crow feathers."
   - "&7Carries eerie symbolism."
