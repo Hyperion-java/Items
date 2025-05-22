@@ -1,6 +1,7 @@
 name: "&fChainmail Vest"
 material: IRON_CHESTPLATE
 rarity: COMMON
+type: ARMOR
 lore:
   - "&7A vest of basic chainmail."
   - "&7Protects vital organs."
