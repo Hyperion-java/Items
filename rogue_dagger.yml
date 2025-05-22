@@ -1,6 +1,6 @@
 name: "&aRogue's Dagger"
 material: STONE_SWORD
-type: "&aStarter Dagger"
+type: KNIFE
 rarity: UNCOMMON
 lore:
   - "&7Benefits and Drawbacks is the"
