@@ -1,6 +1,6 @@
 name: "&9Windslicer"
 material: IRON_SWORD
-type: "&9Swift Blade"
+type: SWORD
 rarity: RARE
 lore:
   - "&7Slices through air with deadly speed."
