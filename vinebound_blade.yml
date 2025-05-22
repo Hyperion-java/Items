@@ -1,6 +1,6 @@
 name: "&9Vinebound Blade"
 material: IRON_SWORD
-type: "&9Intermediate Blade"
+type: SWORD
 rarity: RARE
 ability: "recovery"
 tier: 2
