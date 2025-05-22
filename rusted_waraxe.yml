@@ -1,6 +1,6 @@
 name: "&fRusted Waraxe"
 material: IRON_AXE
-type: "&fOld War Axe"
+type: AXE
 rarity: COMMON
 lore:
   - "&7An axe once used in battle."
