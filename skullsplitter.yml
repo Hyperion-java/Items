@@ -1,6 +1,6 @@
 name: "&9Skullsplitter"
 material: IRON_AXE
-type: "&9Brutal Blade"
+type: AXE
 rarity: RARE
 lore:
   - "&7Splits skulls as easily as splitting wood."
