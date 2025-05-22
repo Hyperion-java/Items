@@ -1,6 +1,7 @@
 name: "Dented Chestplate "
 material: IRON_CHESTPLATE
 rarity: COMMON
+type: ARMOR
 lore:
   - "&7Each dent tells a story—a battle"
   - "&7survived, a blow endured."
