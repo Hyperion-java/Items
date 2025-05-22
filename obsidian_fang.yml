@@ -1,6 +1,6 @@
 name: "&9Obsidian Fang"
 material: IRON_SWORD
-type: "&9Intermediate Blade"
+type: SWORD
 rarity: RARE
 lore:
   - "&7Carved from obsidian and cursed fang."
