@@ -1,6 +1,6 @@
 name: "&6Soul Shard"
 material: ENCHANTED_BOOK
-type: "&6Experienced Amulet"
+type: AMULET
 rarity: LEGENDARY
 ability: "soul_burst"
 lore:
