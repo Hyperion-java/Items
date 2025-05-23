@@ -1,6 +1,7 @@
 name: "&9Guardian's Bulwark"
 material: IRON_CHESTPLATE
 rarity: RARE
+type: ARMOR
 lore:
   - "&7Sturdy enough to block"
   - "&7any mortal blow."
