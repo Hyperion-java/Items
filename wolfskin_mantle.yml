@@ -1,6 +1,7 @@
 name: "&aWolfskin Mantle"
 material: LEATHER_CHESTPLATE
 rarity: UNCOMMON
+type: ARMOR
 lore:
   - "&7A mantle made from direwolf pelts."
   - "&7Warm and deceptively tough."
