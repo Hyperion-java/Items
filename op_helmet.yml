@@ -1,0 +1,9 @@
+name: "&4OP HELMET"
+material: GOLDEN_HELMET
+rarity: ASCENDED
+type: ARMOR
+lore:
+  - "&4i needed this to beat kryos ;("
+stats:
+  health: 1000
+  defense: 1000
